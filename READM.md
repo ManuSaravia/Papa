@@ -1,4 +1,4 @@
-#Algoritmo sin_titulo
+# Algoritmo sin_titulo
 ```python
 	definir i, pregunta como caracter
 	Escribir "¿Qué quiere saber?"
@@ -7,6 +7,9 @@
 		escribir "Así es"
 	FinSi
 ```
-#mi mama me mima
+# mi mama me mima
+**texto**
+
+
 
 
